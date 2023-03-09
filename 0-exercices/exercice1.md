@@ -2,6 +2,15 @@
 
 ---
 
+## Contexte
+
+Vous êtes chez une ESN, vous venez d'intégrer l'entreprise et ils doivent vous positionner sur votre première mission.
+
+Le commercial a reçu cet offre qu'il a fait remonter à votre responsable 
+qui pense vous positionner sur cette mission.
+
+---
+
 ## Enoncé
 
 1. Envoyez votre candidature à l'offre ci-dessous.
