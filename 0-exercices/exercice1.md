@@ -14,7 +14,7 @@ qui pense vous positionner sur cette mission.
 ## Enoncé
 
 1. Envoyez votre candidature à l'offre ci-dessous.
-- Votre réponse contient votre CV mise à jour et quelques phrases sur vous qui accompagne cette candidature
+- Votre réponse contient votre CV mise à jour et quelques phrases sur vous qui accompagne cette candidature qui vous mettent en valeur.
 
 ---
 
